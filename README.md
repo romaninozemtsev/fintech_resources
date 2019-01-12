@@ -4,6 +4,9 @@ Curated list of Fintech resources
 
 ## Podcasts
 
+1. Starling developer podcast (https://itunes.apple.com/us/podcast/starling-developer-podcast/id1274198025?mt=2)
+
+
 ### Specific podcast episodes
 
 talks
@@ -51,7 +54,19 @@ resiliency
 ideal model:
 Kafka -> f(payload) = movement -> TX to DB.
 
+6. Starling Bank
+https://www.infoq.com/presentations/cloud-based-bank-java
 
+amazon RDS.
+
+1. vanilla java without any frameworks.
+2. services don't have sync communications. only async.
+3. only mobile api does scatter across services.
+4. asyncronous, idempotentm, retriable steps in the worklows. some custom built engine. no kafka or similar.
+
+
+starling bank again
+https://www.infoq.com/presentations/starling-bank-resilience
 
 
 ## Blogs
