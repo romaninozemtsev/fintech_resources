@@ -86,3 +86,17 @@ https://medium.com/airbnb-engineering/tracking-the-money-scaling-financial-repor
 
 
 
+| company | industry | languages | DB | queue tech | comments |
+| --- | --- | --- | --- | --- | --- | 
+| klarna  | payments + bank | erlang + java | dynamo + oracle | kafka | most interactions are async |
+| robinhood  | stock market + bank | python | ...  | kafka | ....  |
+| starling bank  | bank | java | RDS  | workflow engine | ....  |
+| nubank | bank | closure | datomic | kafka | ... |
+| netflix | payments | ... | ... | ... | ... |
+| stripe | payments | ... | ... | ... | ... |
+| uber | payments | java | dynamo | kafka | ... |
+| monzo | bank | ... | ... | ... | ... |
+| n26 | bank | ... | ... | ... | ... |
+| tandem | bank | ... | ... | ... | ... |
+| airbnb | payments | ... | ... | ... | ... |
+| facebook | payments | ... | ... | ... | ... |
