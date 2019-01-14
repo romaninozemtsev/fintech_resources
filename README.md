@@ -69,6 +69,13 @@ starling bank again
 https://www.infoq.com/presentations/starling-bank-resilience
 
 
+klarna
+https://vimeo.com/70854665
+https://softwareengineeringdaily.com/2018/08/10/klarna-engineering-with-marcus-granstrom/
+
+
+
+
 ## Blogs
 https://robinhood.engineering/
 
