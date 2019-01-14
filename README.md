@@ -73,6 +73,7 @@ klarna
 https://vimeo.com/70854665
 https://softwareengineeringdaily.com/2018/08/10/klarna-engineering-with-marcus-granstrom/
 
+use Kafka for all async communications. 
 
 
 
