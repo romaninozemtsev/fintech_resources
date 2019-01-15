@@ -77,13 +77,18 @@ use Kafka for all async communications.
 
 
 
+
+
 ## Blogs
 https://robinhood.engineering/
+
 
 ## Articles
 https://medium.com/airbnb-engineering/tracking-the-money-scaling-financial-reporting-at-airbnb-6d742b80f040
 
-
+## shopify
+address normalization at shopify
+https://engineering.shopify.com/blogs/engineering/handling-addresses-from-all-around-the-world
 
 
 | company | industry | languages | DB | queue tech | comments |
