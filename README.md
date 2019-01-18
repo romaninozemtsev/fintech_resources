@@ -22,7 +22,10 @@ https://www.infoq.com/presentations/stripe-api-pci
 https://youtu.be/sYFDnGjNVrk?t=120
 
 #### N26
+1. video + transcript
 https://community.risingstack.com/how-n26-built-a-modern-banking-software-with-javascript-microservices/#q5
+2. podcast
+https://softwareengineeringdaily.com/2018/07/18/build-a-bank-n26-with-pat-kua/
 
 #### robinhood
 https://www.youtube.com/watch?v=RVr3NldzmcY&t=3s
