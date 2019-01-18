@@ -27,6 +27,16 @@ https://community.risingstack.com/how-n26-built-a-modern-banking-software-with-j
 2. podcast
 https://softwareengineeringdaily.com/2018/07/18/build-a-bank-n26-with-pat-kua/
 
+summary:
+(CTO was a consultant for thoughtwofks consulting for Banks)
+* cloud
+* mostly JVM, before Java, now moving to Kotlin
+* one monolith, many microservices. springboot, maven, jenkins;
+* infra as code; hashicorp - nomad,saltstack; consul; vault;
+* docker as containers; 
+* centralized logging through ELK;
+* continuous delivery;
+
 #### robinhood
 https://www.youtube.com/watch?v=RVr3NldzmcY&t=3s
 
@@ -104,7 +114,7 @@ https://engineering.shopify.com/blogs/engineering/handling-addresses-from-all-ar
 | N26 | bank | ... | ... | ... | ... |
 | simple | bank | ... | ... | ... | ... |
 | monzo | bank | ... | ... | ... | ... |
-| n26 | bank | ... | ... | ... | ... |
+| n26 | bank | java/kotlin | mysql | ... | ... |
 | tandem | bank | ... | ... | ... | ... |
 | netflix | payments | ... | ... | ... | ... |
 | stripe | payments | ... | ... | ... | ... |
