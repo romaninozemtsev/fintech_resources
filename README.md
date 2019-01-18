@@ -93,15 +93,18 @@ https://engineering.shopify.com/blogs/engineering/handling-addresses-from-all-ar
 
 | company | industry | languages | DB | queue tech | comments |
 | --- | --- | --- | --- | --- | --- | 
-| klarna  | payments + bank | erlang + java | dynamo + oracle | kafka | most interactions are async |
-| robinhood  | stock market + bank | python | ...  | kafka | ....  |
 | starling bank  | bank | java | RDS  | workflow engine | ....  |
 | nubank | bank | closure | datomic | kafka | ... |
-| netflix | payments | ... | ... | ... | ... |
-| stripe | payments | ... | ... | ... | ... |
-| uber | payments | java | dynamo | kafka | ... |
+| N26 | bank | ... | ... | ... | ... |
+| simple | bank | ... | ... | ... | ... |
 | monzo | bank | ... | ... | ... | ... |
 | n26 | bank | ... | ... | ... | ... |
 | tandem | bank | ... | ... | ... | ... |
+| netflix | payments | ... | ... | ... | ... |
+| stripe | payments | ... | ... | ... | ... |
+| uber | payments | java | dynamo | kafka | ... |
 | airbnb | payments | ... | ... | ... | ... |
 | facebook | payments | ... | ... | ... | ... |
+| transferwise | remittances | ... | ... | ... | ... |
+| klarna  | payments + bank | erlang + java | dynamo + oracle | kafka | most interactions are async |
+| robinhood  | stock market + bank | python | ...  | kafka | ....  |
