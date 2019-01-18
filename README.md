@@ -11,17 +11,20 @@ Curated list of Fintech resources
 
 talks
 
-1. uber
+#### uber
 https://www.youtube.com/watch?v=Dz6dAZs8Scg
 https://www.youtube.com/watch?v=XzJDNg_iSaA
 
-2. stripe
+#### stripe
 https://www.infoq.com/presentations/stripe-api-pci
 
-3. netflix
+#### netflix
 https://youtu.be/sYFDnGjNVrk?t=120
 
-4. robinhood
+#### N26
+https://community.risingstack.com/how-n26-built-a-modern-banking-software-with-javascript-microservices/#q5
+
+#### robinhood
 https://www.youtube.com/watch?v=RVr3NldzmcY&t=3s
 
 5. nubank
