@@ -124,3 +124,10 @@ https://engineering.shopify.com/blogs/engineering/handling-addresses-from-all-ar
 | transferwise | remittances | ... | ... | ... | ... |
 | klarna  | payments + bank | erlang + java | dynamo + oracle | kafka | most interactions are async |
 | robinhood  | stock market + bank | python | ...  | kafka | ....  |
+
+
+
+### general business processes or ecommerce 
+
+workflows vs event driven architecture
+https://www.infoq.com/presentations/event-flow-distributed-systems
