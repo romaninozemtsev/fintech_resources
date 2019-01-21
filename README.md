@@ -131,3 +131,7 @@ https://engineering.shopify.com/blogs/engineering/handling-addresses-from-all-ar
 
 workflows vs event driven architecture
 https://www.infoq.com/presentations/event-flow-distributed-systems
+
+BPMN (Business Process Modeling Notation) - used as a common design language amongh sales / business and engineers.
+https://www.lucidchart.com/pages/bpmn?a=0#top-info
+
