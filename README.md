@@ -135,3 +135,9 @@ https://www.infoq.com/presentations/event-flow-distributed-systems
 BPMN (Business Process Modeling Notation) - used as a common design language amongh sales / business and engineers.
 https://www.lucidchart.com/pages/bpmn?a=0#top-info
 
+there is also BPEL, which seem to be legacy
+
+
+Orchestration vs choreography
+https://stackoverflow.com/questions/4127241/orchestration-vs-choreography
+
