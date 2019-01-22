@@ -116,6 +116,7 @@ https://engineering.shopify.com/blogs/engineering/handling-addresses-from-all-ar
 | monzo | bank | ... | ... | ... | ... |
 | n26 | bank | java/kotlin | mysql | ... | ... |
 | tandem | bank | ... | ... | ... | ... |
+| varo money | bank | ... | ... | ... | ... |
 | netflix | payments | ... | ... | ... | ... |
 | stripe | payments | ... | ... | ... | ... |
 | uber | payments | java | dynamo | kafka | ... |
