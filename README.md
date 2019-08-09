@@ -1,6 +1,57 @@
 # fintech_resources
 Curated list of Fintech resources
 
+## Basics
+
+### Idempotency
+
+>    A request method is considered "idempotent" if the intended effect on
+   the server of multiple identical requests with that method is the
+   same as the effect for a single such request.  Of the request methods
+   defined by this specification, PUT, DELETE, and safe request methods
+   are idempotent. 
+(from https://tools.ietf.org/html/rfc7231#section-4.2.2)
+
+Idempotency is one of the most used buzzwords, but Payments is a domain where idempotency is very important, and can't be taken lightly.
+
+* Stripe API reference: https://stripe.com/docs/api/idempotent_requests
+* Adyen API: https://docs.adyen.com/development-resources/api-idempotency
+* Stripe article about idempotency: https://stripe.com/blog/idempotency
+
+### Accounting
+
+Double entry accounting: 
+https://en.wikipedia.org/wiki/Double-entry_bookkeeping_system
+
+1. Martin Fowler old but good articles:
+   1. https://martinfowler.com/eaaDev/AccountingNarrative.html
+   2. https://martinfowler.com/eaaDev/AccountingTransaction.html
+2. foundation of NuBank architecture: https://www.infoq.com/presentations/nubank-financial-systems
+3. Square's "Books" approach to dountry entry accounting: https://www.youtube.com/watch?v=I_Pt_i3ntGw
+
+### Domain Driven Design(DDD)
+
+99% of engineers don't need DDD; until you start touching actually complicated business domains like e-commerce or banking.
+
+
+
+### Event driven vs worfkflows 
+
+one opinion from workflow product creators:
+https://www.infoq.com/presentations/event-flow-distributed-systems
+
+
+###  Payments glossary
+
+Adyen: https://docs.adyen.com/payments-essentials/payment-glossary
+
+
+### PCI / Card data handling
+
+
+1. stripe: https://www.infoq.com/presentations/stripe-api-pci/ (starting from 19th minute)
+2. netflix: https://youtu.be/sYFDnGjNVrk?t=120 (from 2 minutes)
+
 
 ## Podcasts
 
@@ -9,19 +60,19 @@ Curated list of Fintech resources
 
 ### Specific podcast episodes
 
-talks
+## By Company
 
-#### uber
+### uber
 https://www.youtube.com/watch?v=Dz6dAZs8Scg
 https://www.youtube.com/watch?v=XzJDNg_iSaA
 
-#### stripe
+### stripe
 https://www.infoq.com/presentations/stripe-api-pci
 
-#### netflix
+### netflix
 https://youtu.be/sYFDnGjNVrk?t=120
 
-#### N26
+### N26
 1. video + transcript
 https://community.risingstack.com/how-n26-built-a-modern-banking-software-with-javascript-microservices/#q5
 2. podcast
@@ -37,10 +88,10 @@ summary:
 * centralized logging through ELK;
 * continuous delivery;
 
-#### robinhood
+### robinhood
 https://www.youtube.com/watch?v=RVr3NldzmcY&t=3s
 
-5. nubank
+### nubank
 https://www.infoq.com/presentations/nubank-financial-systems
 
 summary:
@@ -85,7 +136,7 @@ starling bank again
 https://www.infoq.com/presentations/starling-bank-resilience
 
 
-klarna
+### klarna
 https://vimeo.com/70854665
 https://softwareengineeringdaily.com/2018/08/10/klarna-engineering-with-marcus-granstrom/
 
