@@ -152,6 +152,8 @@ https://robinhood.engineering/
 
 ## Articles
 https://medium.com/airbnb-engineering/tracking-the-money-scaling-financial-reporting-at-airbnb-6d742b80f040
+https://medium.com/airbnb-engineering/avoiding-double-payments-in-a-distributed-payments-system-2981f6b070bb
+https://medium.com/airbnb-engineering/scaling-airbnbs-payment-platform-43ebfc99b324
 
 ## shopify
 address normalization at shopify
